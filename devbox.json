@@ -6,8 +6,6 @@
     "starship@latest",
     "chezmoi@latest",
     "gh@latest",
-    "git@latest",
-    "wslu@latest",
     "fzf@latest"
   ],
   "shell": {

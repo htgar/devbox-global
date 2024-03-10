@@ -81,26 +81,6 @@
         }
       }
     },
-    "git@latest": {
-      "last_modified": "2024-02-27T12:57:41Z",
-      "resolved": "github:NixOS/nixpkgs/8520c158aee718c6e87b56881105fc4223c3c723#git",
-      "source": "devbox-search",
-      "version": "2.43.1",
-      "systems": {
-        "aarch64-darwin": {
-          "store_path": "/nix/store/ycg59v1gfzmv8bnnrlpqhprnfn7y6v7b-git-2.43.1"
-        },
-        "aarch64-linux": {
-          "store_path": "/nix/store/idq6ygdm30ka8f577qih3ysl7jjhbp7b-git-2.43.1"
-        },
-        "x86_64-darwin": {
-          "store_path": "/nix/store/5pp0150mbgr2r6lg4x84l2d7hgk38f3d-git-2.43.1"
-        },
-        "x86_64-linux": {
-          "store_path": "/nix/store/g6343av5x49smrfb16j61cif88xahjvz-git-2.43.1"
-        }
-      }
-    },
     "neovim@latest": {
       "last_modified": "2024-02-24T23:06:34Z",
       "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#neovim",
@@ -158,20 +138,6 @@
         },
         "x86_64-linux": {
           "store_path": "/nix/store/f0i5d991njrwyzgd90351h4zyx0a7z52-starship-1.17.1"
-        }
-      }
-    },
-    "wslu@latest": {
-      "last_modified": "2024-02-24T23:06:34Z",
-      "resolved": "github:NixOS/nixpkgs/9a9dae8f6319600fa9aebde37f340975cab4b8c0#wslu",
-      "source": "devbox-search",
-      "version": "4.1.1",
-      "systems": {
-        "aarch64-linux": {
-          "store_path": "/nix/store/rkfxfqkxi9xzh7z3k5q9g6hn5k2ifbs4-wslu-4.1.1"
-        },
-        "x86_64-linux": {
-          "store_path": "/nix/store/2b7673x5pnpic5w4i116330zrqydcl0p-wslu-4.1.1"
         }
       }
     }
